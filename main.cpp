@@ -1,6 +1,7 @@
 #include <QGuiApplication>
 #include <QQmlApplicationEngine>
-
+// Deo the hieu
+//Cay vai dai
 
 int main(int argc, char *argv[])
 {
