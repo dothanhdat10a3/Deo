@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>../RedSquare/RedSquare.pro</file>
+    </qresource>
+</RCC>
